@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg" "height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="Sourcerer"></a>
   
 <a href="https://sourcerer.io/wz-ml"><img src="https://img.shields.io/badge/Python-37%20commits-orange.svg" alt=""></a>
 <!--
