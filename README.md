@@ -2,9 +2,10 @@
 - 🔭 I’m currently working on Kaggle projects.
 - ⚡ Fun fact: I prefer spaces over tabs for indentation.
 
-#### Sourcerer profile: <a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="Sourcerer"></a>
+### Sourcerer profile: 
+<a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="Sourcerer"></a>
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 - Discord: NeverUpdatesGithub#7208
 - Email: <a href = "zhou.pe@wcs-g.com? subject = Contact&body = Message">
 Zhou.pe@wcs-g.com.
