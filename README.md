@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! I'm William.
 - 🔭 I’m currently working on Kaggle projects.
 - ⚡ Fun fact: I prefer spaces over tabs for indentation.
 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=wz-ml)](https://github.com/anuraghazra/github-readme-stats)
