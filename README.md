@@ -1,7 +1,7 @@
 ### Hi there! I'm William.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz-ml">
-- 🔭 I’m currently working on Kaggle projects.
 
+- 🔭 I’m currently working on Kaggle projects.
 - ⚡ Fun fact: I prefer spaces over tabs for indentation.
 
 ### Sourcerer profile: 
