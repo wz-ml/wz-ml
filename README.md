@@ -1,7 +1,7 @@
 ### Hi there! I'm William.
 - 🔭 I’m currently working on Kaggle projects.
 - ⚡ Fun fact: I prefer spaces over tabs for indentation.
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wz-ml">
 ### Sourcerer profile: 
 <a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="Sourcerer"></a>
 
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![William's github stats](https://github-readme-stats.vercel.app/api?username=wz-ml)](https://github.com/anuraghazra/github-readme-stats)
