@@ -9,8 +9,8 @@
 
 ### 📫 How to reach me: 
 - Discord: NeverUpdatesGithub#7208
-- Email: <a href = "zhou.pe@wcs-g.com? subject = Contact&body = Message">
-Zhou.pe@wcs-g.com.
+- Email: <a href = "willzhou97@ucla.edu? subject = Contact&body = Message">
+willzhou97@ucla.edu
 </a>
 
 <a href="https://sourcerer.io/wz-ml"><img src="https://img.shields.io/badge/Python-37%20commits-orange.svg" alt=""></a>  <a href="https://sourcerer.io/wz-ml"><img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt=""></a>
