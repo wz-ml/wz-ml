@@ -1,9 +1,9 @@
 ### Hi there! I'm William.
-- 🔭 I’m currently working on Kaggle projects.
+- 🔭 I’m currently working on RLHF.
 - ⚡ Fun fact: I prefer tabs over spaces for indentation.
 
 ### 📫 How to reach me: 
-- Discord: NeverUpdatesGithub#7208
+- Discord: willzhou97
 - Email: <a href = "willzhou97@ucla.edu? subject = Contact&body = Message">
 willzhou97@ucla.edu
 </a>
