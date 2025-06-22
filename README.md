@@ -10,8 +10,7 @@ willzhou97@ucla.edu
 
 <a href="https://sourcerer.io/wz-ml"><img src="https://img.shields.io/badge/Python-37%20commits-orange.svg" alt=""></a>  <a href="https://sourcerer.io/wz-ml"><img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt=""></a>
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz-ml)](https://github.com/anuraghazra/github-readme-stats)
-
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz-ml&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wz-ml/wz-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://sourcerer.io/wz-ml"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
