@@ -1,5 +1,5 @@
 ### Hi there! I'm William.
-- 🔭 I’m currently working on RLHF.
+- 🔭 I’m currently working on Triton kernels within AMD's [AI Tensor Engine](https://github.com/ROCm/aiter).
 - ⚡ Fun fact: I prefer tabs over spaces for indentation.
 
 ### 📫 How to reach me: 
