@@ -1,5 +1,5 @@
 ### Hi there! I'm William.
-- 🔭 I’m currently working on Triton kernels in AMD's [AI Tensor Engine](https://github.com/ROCm/aiter).
+- 🔭 I’m currently working on a ray tracer in [OptiX](https://developer.nvidia.com/rtx/ray-tracing/optix).
 - ⚡ Fun fact: I prefer tabs over spaces for indentation.
 
 ### 📫 How to reach me: 
